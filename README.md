@@ -8,3 +8,9 @@ M5 - 01 Python Notebook
 M5 - 02 condicionales
 
 M5 - 03 Bucles
+
+## Dia 2
+
+M5 - EDA Using SQL
+
+M5 - Data Collection Api 
