@@ -14,3 +14,11 @@ M5 - 03 Bucles
 M5 - EDA Using SQL
 
 M5 - Data Collection Api 
+
+## Dia 3
+
+M5 -  Introducción a Machine Learning con Scikit-Learn
+
+M5 -  Folium
+
+M5 -  Prophet - Predecir el valor de Bitcoin
