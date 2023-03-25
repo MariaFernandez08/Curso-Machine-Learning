@@ -22,3 +22,9 @@ M5 -  Introducción a Machine Learning con Scikit-Learn
 M5 -  Folium
 
 M5 -  Prophet - Predecir el valor de Bitcoin
+
+## Dia 4
+
+M5 - SPACEX2 - 6 - Machine Learning Predicciones
+
+M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium
